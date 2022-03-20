@@ -10,3 +10,4 @@ Changed the file structure to remove the develop folder in order to deploy the s
 
 Here is a link to the deployed web page: https://yoli19.github.io/challenge-1/
 
+![here is what the webpage looks like](./assets/images/site-screenshot.png)
